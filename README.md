@@ -1,2 +1,1 @@
-# recorder_gui
-"# recorder_gui" 
+#This is recorder application.
